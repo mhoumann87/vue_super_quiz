@@ -16,3 +16,11 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+------------------------------------------------------
+Project build in connection with a course on [Udemy.com](htps://udemy.com).
+
+Tools used:
+* Vue cli 2
+* Bootstrap 3
+* HTML
+* CSS
